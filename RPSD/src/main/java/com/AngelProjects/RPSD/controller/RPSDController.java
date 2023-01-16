@@ -106,6 +106,7 @@ public class RPSDController {
         return info;
     }
 
+    
     ///in charge of dealing with receiving moves that players make.
     //each match is stored within a hashmap where the key is player1's name.
     //when both players make a choice, they receive a message with the updated object.
